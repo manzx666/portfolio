@@ -20,15 +20,15 @@ export const Projects = [
 
     id: 2,
 
-    name: 'Coming Soon Project',
+    name: 'smash game ',
 
-    slug: 'Coming Soon Project',
+    slug: 'games web',
 
-    img: 'coming-soon',
+    img: 'smash-game',
 
-    demo: 'https://',
+    demo: 'https://smsh-games-ai-man-123.vercel.app/',
 
-    sourceCode: '',
+    sourceCode: 'https://github.com/ai-man-123/smsh-games',
 
     description:
 
