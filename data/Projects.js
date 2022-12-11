@@ -40,15 +40,15 @@ export const Projects = [
 
     id: 3,
 
-    name: 'Coming Soon Project',
+    name: 'My music player',
 
-    slug: 'Coming Soon Project',
+    slug: 'Music player',
 
-    img: 'coming-soon',
+    img: 'desktop',
 
-    demo: 'https://',
+    demo: 'https://music-player-steel-zeta.vercel.app/',
 
-    sourceCode: 'https://',
+    sourceCode: 'https://github.com/ai-man-123/music-player',
 
     description:
 
