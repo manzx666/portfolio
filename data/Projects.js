@@ -60,13 +60,13 @@ export const Projects = [
 
     id: 4,
 
-    name: 'Coming Soon Project',
+    name: 'Ping pong game',
 
-    slug: 'Coming Soon Project',
+    slug: 'game ping pong web',
 
-    img: 'coming-soon',
+    img: 'gameman',
 
-    demo: 'https://',
+    demo: 'https://game-two-omega.vercel.app/',
 
     sourceCode: 'https://',
 
