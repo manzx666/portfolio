@@ -2,13 +2,13 @@ export const Projects = [
   {
     id: 1,
 
-    name: 'Web Downloader',
+    name: 'bot telegram AI',
 
-    slug: 'downloader',
+    slug: 'AI botz',
 
-    img: 'downloader',
+    img: 'ai',
 
-    demo: 'https://taupe-codfish-cape.cyclic.app',
+    demo: 'https://t.me/manzx_bot',
 
     description:
 
