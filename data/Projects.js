@@ -82,15 +82,15 @@ export const Projects = [
 
     id: 5,
 
-    name: 'Coming Soon Project',
+    name: 'Post ig',
 
-    slug: 'coming-soon-project',
+    slug: 'fake post ig',
 
     img: 'coming-soon',
 
-    demo: 'https://',
+    demo: 'https://instagram-post-psi.vercel.app/',
 
-    sourceCode: 'https://',
+    sourceCode: 'https://github.com/aiman-tzy',
 
     description:
 
