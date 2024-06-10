@@ -86,7 +86,7 @@ export const Projects = [
 
     slug: 'fake post ig',
 
-    img: 'coming-soon',
+    img: 'ig',
 
     demo: 'https://instagram-post-psi.vercel.app/',
 
