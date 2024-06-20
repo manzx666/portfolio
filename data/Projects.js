@@ -46,7 +46,7 @@ export const Projects = [
 
     img: 'desktop',
 
-    demo: 'music-player-git-master-aimantzys-projects.vercel.app',
+    demo: 'https://music-player-git-master-aimantzys-projects.vercel.app',
 
     sourceCode: 'https://github.com/ai-man-123/music-player',
 
