@@ -94,7 +94,7 @@ export const Projects = [
 
     description:
 
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla alias accusantium commodi quia rerum reprehenderit similique, ipsa cupiditate vel voluptates sapiente, unde ducimus dignissimos saepe consequuntur possimus maxime voluptatibus laudantium.',
+      '.',
 
   },
 
