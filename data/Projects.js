@@ -55,6 +55,27 @@ export const Projects = [
       '.',
 
   },
+  
+   {
+
+    id: 2,
+
+    name: 'Download video/music Tiktok ',
+
+    slug: 'Download video/music Tiktok ',
+
+    img: 'dowh',
+
+    demo: 'https://musicaldown.com/',
+
+    sourceCode: '-',
+
+    description:
+
+      '.',
+
+  },
+
 
   {
 
