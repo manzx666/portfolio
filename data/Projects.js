@@ -72,7 +72,7 @@ export const Projects = [
 
     description:
 
-      '.',
+      'Untuk download video/audio dari tiktok',
 
   },
 
@@ -93,7 +93,7 @@ export const Projects = [
 
     description:
 
-      '.',
+      'fun gabut:/',
 
   },
 
@@ -103,15 +103,15 @@ export const Projects = [
 
     id: 5,
 
-    name: 'Post ig',
+    name: 'Card',
 
     slug: 'fake post ig',
 
     img: 'ig',
 
-    demo: 'https://instagram-post-psi.vercel.app/',
+    demo: 'https://manzx666.github.io/ProfileCard/',
 
-    sourceCode: 'https://github.com/aiman-tzy',
+    sourceCode: 'https://github.com/manzx666',
 
     description:
 
