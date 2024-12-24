@@ -2,13 +2,13 @@ export const Projects = [
   {
     id: 1,
 
-    name: 'bot telegram AI',
+    name: 'image-converter HD',
 
     slug: 'AI botz',
 
     img: 'ai',
 
-    demo: 'https://t.me/manzx_bot',
+    demo: 'https://hd-manz.vercel.app/',
 
     description:
 
